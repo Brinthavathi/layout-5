@@ -1,0 +1,41 @@
+.container
+{
+	display:flex;
+border:2px solid;
+background-color:black;
+height:700px;
+}
+.box1
+{
+	padding:20px;
+	background-color:gray;
+	height:550px;
+	width:80%;
+	margin-top:50px;
+	margin-left:120px;
+}
+
+.box2
+{
+	padding:20px;
+	background-color:black;
+	height:200px;
+	width:45%;
+	margin-top:25px;
+	margin-left:100px;
+}
+h1
+{
+	text-align:bottom;
+	color:white;
+}
+	
+.box3
+{
+	padding:20px;
+	background-color:black;
+	height:200px;
+	width:45%;
+	margin-top:30px;
+	margin-left:440px;
+}
